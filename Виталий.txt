@@ -1,1 +1,2 @@
-
+Hello, world.
+My first work with vcs git.
